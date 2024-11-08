@@ -1,0 +1,20 @@
+{
+  "name": "html-for-extension--ext-",
+  "displayName": "HTML For Extension(.ext)",
+  "description": "Allows you to create an interface",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

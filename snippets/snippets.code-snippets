@@ -1,0 +1,29 @@
+{
+    "Emmet Abbreviation": {
+      "prefix": "!e",
+      "body": [
+        "<!DOCTYPE html>",
+        "<html lang=\"en\">",
+        "  <head>",
+        "    <meta charset=\"UTF-8\">",
+        "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+        "    <title>interface.ext</title>",
+        "    <script src=\"https://hostowniakirilla.7m.pl/uploads/library/ext_to_js.min.js\"></script>",
+        "    <script>",
+        "      fetch.parseDataFromJS();",
+        "      convert.parse();",
+        "    </script>",
+        "  </head>",
+        "  <body>",
+        "    <script>",
+        "      convert.toJS = {",
+        "                      ",
+        "      };",
+        "    </script>",
+        "  </body>",
+        "</html>"
+      ],
+      "description": "html"
+    }
+  }
+  
