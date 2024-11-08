@@ -3,6 +3,10 @@
   "displayName": "HTML For Extension(.ext)",
   "description": "Allows you to create an interface",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirilltita/html-for-extension-file--ext-.git"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -16,8 +20,5 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
-  },
-  "dependencies": {
-    "@vscode/vsce": "^3.2.1"
   }
 }
