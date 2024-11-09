@@ -2,7 +2,7 @@
   "name": "html-for-extension--ext-",
   "displayName": "HTML For Extension(.ext)",
   "description": "Allows you to create an interface",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/kirilltita/html-for-extension-file--ext-.git"
